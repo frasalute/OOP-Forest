@@ -75,7 +75,7 @@ for i in range(n_trees):
 cv.imshow('forest of objects', image)
 
 cv.waitKey(0)
-cv.destroAllWindows()
+cv.destroyAllWindows()
 
 
 
